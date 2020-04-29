@@ -1,3 +1,4 @@
+#https://stackoverflow.com/questions/4098131/how-to-update-a-plot-in-matplotlib
 import multiprocessing
 import time
 
